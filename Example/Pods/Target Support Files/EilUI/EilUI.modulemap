@@ -1,0 +1,6 @@
+framework module EilUI {
+  umbrella header "EilUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
